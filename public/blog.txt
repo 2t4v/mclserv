@@ -1,2 +1,2 @@
 V 0.1:
-You can download/upload private/public files in MCL
+You can download/upload files in MCL
