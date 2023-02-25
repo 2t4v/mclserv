@@ -1,3 +1,3 @@
-MyConnectServer:
+<h1>MyConnectServer:
   <br>Upload data to MyConnect using MCLaucnher
-<h1>Download:
+<h2>Download:
